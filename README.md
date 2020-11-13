@@ -1,4 +1,4 @@
-# EastronSDMESP8266
+# EastronSDM-ESP8266
 
 ### Based on https://github.com/daromer2/SmartHome thanks for the works.
 
