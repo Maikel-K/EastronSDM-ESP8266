@@ -5,8 +5,10 @@
 https://diytechandrepairs.nu/esp8266-to-monitor-electricity-with-sdm-devices-and-send-to-mqtt/
 
 I used: arduino-1.8.13-windows for the compile and upload to Wemos D1 mini
-* In arduino IDE i used following board manager: 
+
+In arduino IDE i used following board manager: 
 *-ESP8266 2.7.4
+
 In arduino IDE i installed the follow librarys via Sketch-->Include Library-->Manage libraries:
 -ArduinoJson version 5.13.5 by Benoit Blanchon
 -WiFiManager version 0.15.0 by tzapu,tablatronix
